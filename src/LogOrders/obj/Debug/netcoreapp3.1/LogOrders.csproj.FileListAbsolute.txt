@@ -1,0 +1,11 @@
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\bin\Debug\netcoreapp3.1\LogOrders.exe
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\bin\Debug\netcoreapp3.1\LogOrders.deps.json
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\bin\Debug\netcoreapp3.1\LogOrders.runtimeconfig.json
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\bin\Debug\netcoreapp3.1\LogOrders.runtimeconfig.dev.json
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\bin\Debug\netcoreapp3.1\LogOrders.dll
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\bin\Debug\netcoreapp3.1\LogOrders.pdb
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\obj\Debug\netcoreapp3.1\LogOrders.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\obj\Debug\netcoreapp3.1\LogOrders.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\obj\Debug\netcoreapp3.1\LogOrders.AssemblyInfo.cs
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\obj\Debug\netcoreapp3.1\LogOrders.dll
+C:\Users\usuario\Documents\projectos\Console\Log-Orders\src\LogOrders\obj\Debug\netcoreapp3.1\LogOrders.pdb
